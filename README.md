@@ -1,4 +1,4 @@
-# learn-git-with-hack
+# learn-git
 
 ## Overview
 
